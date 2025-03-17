@@ -1,7 +1,10 @@
 Git est un système de contrôle de version qui a été inventé et développé par Linus Torvalds, également connu pour l’invention du noyau Linux, en 2005.
 
 Il s’agit d’un outil de développement qui aide une équipe de développeurs à gérer les changements apportés au code source au fil du temps.
-
+shdshdshdshdshdshdshdshdhhshdhshdhsdhsdh
+ddj j j j j jj j n n n n ndlkdsllkdslk llsdlksdkks 
+dsjdsjdsjkds skldklsdlklk lklksdkklskld 
+dsjjdjdsdskjdsjkdsjds 
 Git est le plus connu des VCS (versionning control system),
 c’est un projet open source très puissant qui est utilisé par l’ensemble de la communauté des développeurs.
 
